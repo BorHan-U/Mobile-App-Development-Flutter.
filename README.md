@@ -5,13 +5,13 @@ This project demonstrates how to use lists in a Flutter application. You'll lear
 ### Objectives
 In this assignment, you will:
 
-Build a basic Flutter application.
+1. Build a basic Flutter application.
 
-Create a hardcoded list of items (e.g., "Apple", "Orange", "Rambutan").
+2. Create a hardcoded list of items (e.g., "Apple", "Orange", "Rambutan").
 
-Add a TextField widget to input a numeric value (e.g., 1, 2, 3, ...).
+3. Add a TextField widget to input a numeric value (e.g., 1, 2, 3, ...).
 
-Add a button that, when pressed, displays the item from the list corresponding to the entered number.
+4. Add a button that, when pressed, displays the item from the list corresponding to the entered number.
 
 ### Example:
 If the user enters 1, the app will display:
