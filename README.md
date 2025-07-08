@@ -1,8 +1,8 @@
-### List in Flutter
-## Overview
+## List in Flutter
+### Overview
 This project demonstrates how to use lists in a Flutter application. You'll learn the fundamentals of building a Flutter app from scratch, including working with widgets, buttons, text input, and handling user interactions.
 
-## Objectives
+### Objectives
 In this assignment, you will:
 
 Build a basic Flutter application.
@@ -13,9 +13,10 @@ Add a TextField widget to input a numeric value (e.g., 1, 2, 3, ...).
 
 Add a button that, when pressed, displays the item from the list corresponding to the entered number.
 
-## Example:
+### Example:
 If the user enters 1, the app will display:
-Apple
+**Apple**
+
 
 ![142151060-e2df7685-df96-4024-907b-d8cd84edc062](https://user-images.githubusercontent.com/55747898/163574161-99cc69e9-e3d1-41ac-bfd3-3f0e81522a3d.png)
 ![142151065-caa2243a-fb03-4ea3-9058-d0b95a5d3292](https://user-images.githubusercontent.com/55747898/163574587-9c03d955-a238-4989-a15b-c4683dfb68a1.png)
