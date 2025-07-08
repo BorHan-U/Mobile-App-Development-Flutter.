@@ -1,22 +1,21 @@
-# list_in_flutter
-// md borhan uddin
-List in Flutter
+### List in Flutter
+## Overview
+This project demonstrates how to use lists in a Flutter application. You'll learn the fundamentals of building a Flutter app from scratch, including working with widgets, buttons, text input, and handling user interactions.
 
-Using List in Flutter
-We learn a little bit about creating your app from scratch and using buttons and creating actions.
+## Objectives
+In this assignment, you will:
 
-In this assignment, you will create:
+Build a basic Flutter application.
 
-1) a flutter app
+Create a hardcoded list of items (e.g., "Apple", "Orange", "Rambutan").
 
-2) create an object with hard coded list of items, for example apple, orange, rambutan...
+Add a TextField widget to input a numeric value (e.g., 1, 2, 3, ...).
 
-3) Create a textbox widget to enter a choice of 1,2,3,or ...
+Add a button that, when pressed, displays the item from the list corresponding to the entered number.
 
-4, Create a button to access the list and display the content of the list depending on what was chosen on the textbox.
-
-So if 1 is entered in the textbox, than, display apple.
-Create a github, and submit the link to your repo for this assignment.
+## Example:
+If the user enters 1, the app will display:
+Apple
 
 ![142151060-e2df7685-df96-4024-907b-d8cd84edc062](https://user-images.githubusercontent.com/55747898/163574161-99cc69e9-e3d1-41ac-bfd3-3f0e81522a3d.png)
 ![142151065-caa2243a-fb03-4ea3-9058-d0b95a5d3292](https://user-images.githubusercontent.com/55747898/163574587-9c03d955-a238-4989-a15b-c4683dfb68a1.png)
